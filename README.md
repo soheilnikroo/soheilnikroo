@@ -4,7 +4,7 @@
 <h1 align="center">Hello, My friends!👋</h1>
 
 # 💫 About Me:
-👋 Hi, I’m @soheilnikroo<br>👀 I’m interested in React, React-native, JS, TS, Python<br>🌱 I’m currently learning Next js<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me soheiln1234@gmail.com
+👋 Hi, I’m @soheilnikroo<br>👀 I’m interested in React, React-native, JS, TS, Python<br>🌱 I’m currently learning Swift UI<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me soheiln1234@gmail.com
 
 
 ## 🌐 Socials:
